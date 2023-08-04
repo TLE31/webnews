@@ -1,1 +1,1 @@
-# webnews
+News website from scratch using a combination of CSS, HTML, JavaScript, and the News API. This was aimed     to create a user-friendly platform that delivers real-time news updates, covering diverse topics and sources
